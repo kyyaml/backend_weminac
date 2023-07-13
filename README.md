@@ -1,3 +1,5 @@
+## Installation 
+
 1. Copy .env.example into .env and configure database credentials
 2. Navigate to the project's root directory using terminal
 3. Run ``` composer install ```
