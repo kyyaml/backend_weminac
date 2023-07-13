@@ -5,4 +5,5 @@
 5. Run migrations ``` php artisan migrate ```
 6. ``` php artisan jwt:secret ```
 7. ``` php artisan storage:link ```
+
 8.``` php artisan jwt:secret ```   
